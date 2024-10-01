@@ -1,6 +1,6 @@
 # Global conversion factors
-FAHRENHEIT_TO_CELSIUS_FACTOR = 5 / 9  # Conversion factor from Fahrenheit to Celsius
-CELSIUS_TO_FAHRENHEIT_FACTOR = 9 / 5   # Conversion factor from Celsius to Fahrenheit
+FAHRENHEIT_TO_CELSIUS_FACTOR = 5/9  # Conversion factor from Fahrenheit to Celsius
+CELSIUS_TO_FAHRENHEIT_FACTOR = 9/5   # Conversion factor from Celsius to Fahrenheit
 FAHRENHEIT_OFFSET = 32                  # Offset to convert from Celsius to Fahrenheit
 
 # Function to convert Fahrenheit to Celsius
