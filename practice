@@ -1,0 +1,14 @@
+class Person:
+    def __init__ (self,name,age):
+        self.name = name
+        self.age = age
+        print (f"Person {self.name}, aged {self.age} has been created")
+
+#Creating Instances
+Person1 = Person("Alice", 30)  
+Person2 = Person("Richard", 40)    
+
+#Accessing Attributes
+print (f"Name: {Person1.name}, Age: {Person1.age}")
+print (f"Name: {Person2.name}, Age: {Person2.age}")
+        
